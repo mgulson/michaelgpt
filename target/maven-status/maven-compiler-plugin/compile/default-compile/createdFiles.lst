@@ -1,2 +1,7 @@
+com/project/michaelgpt/GptController.class
+com/project/michaelgpt/payloads/ReplicateBody.class
 com/project/michaelgpt/HelloController.class
 com/project/michaelgpt/MichaelgptApplication.class
+com/project/michaelgpt/payloads/InputObject.class
+com/project/michaelgpt/payloads/Urls.class
+com/project/michaelgpt/requests/PromptRequest.class
